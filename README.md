@@ -13,5 +13,5 @@ Some sources of this files are:
 - [File Formats Examples](https://wias-berlin.de/software/tetgen/fformats.examples.html): balls3astr_12_16.poly, balls3astr_12_16_20.poly, bar3.poly, cutSphere.poly, cylsph.node, cylsph.poly, socket.poly, tahol.poly, body_has_heart.smesh, codecasa.smesh, gear.smesh, hinge.smesh, hose_c_3_6.smesh, hose_n_2_6.smesh, sav.smesh, schoenhardt.smesh, spine.node, spine.smesh, tet.smesh, twolayermdl.node, twolayermdl.smesh, *brain.node, brain.smesh, apparatus.node, apparatus.poly, pmdc.node, pmdc.poly*
 - [TetView](https://wias-berlin.de/software/tetgen/tetview.html) (examples files): pmdc.1.node, pmdc.1.ele, pmdc.1.face
 - [POLY Files](https://people.sc.fsu.edu/~jburkardt/data/poly/poly.html): mesh08.poly, example2.poly, p01.poly, pie.poly, shape.poly, square_circle_hole.poly
-- [3D viewer] (https://3dviewer.net/#model=assets/models/solids.obj,assets/models/solids.mtl) (download model): solids.obj
+- [3D viewer](https://3dviewer.net/#model=assets/models/solids.obj,assets/models/solids.mtl) (download model): solids.obj
 - [TetGen Features](https://wias-berlin.de/software/tetgen/features.html): L.smesh, bar2.poly, cow.smesh
